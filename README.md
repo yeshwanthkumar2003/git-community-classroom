@@ -1,3 +1,6 @@
 # git-community-classroom
 
-this is classroom for git expertise
+
+=======
+this is the commutity classroom for git practice
+
